@@ -1,3 +1,1 @@
-# rsschool-cv
-rsschool-cv
-https://GITHUB-USERNAME.github.io/rsschool-cv/
+https://krosh1011.github.io/rsschool-cv/
