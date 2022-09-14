@@ -1,2 +1,2 @@
-* https://EternalRival.github.io/rsschool-cv/cv
-* https://EternalRival.github.io/rsschool-cv/
+* https://krosh1011.github.io/rsschool-cv/cv
+* https://krosh1011.github.io/rsschool-cv/
